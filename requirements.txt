@@ -33,3 +33,4 @@ redis
 mozilla_django_oidc
 ics
 django-honeypot
+importlib-metadata==4.13.0

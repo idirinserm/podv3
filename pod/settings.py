@@ -45,7 +45,7 @@ INSTALLED_APPS = [
     "honeypot",
     # Pod Applications
     "pod.main",
-    "django.contrib.admin",  # put it here for template override
+    "django.contrib.admin",  #put it here for template override
     "pod.authentication",
     "pod.video",
     "pod.podfile",
